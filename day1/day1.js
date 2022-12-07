@@ -1,4 +1,4 @@
-const { puzzleInput } = require('./sample.js');
+const { puzzleInput } = require('./puzzleSample.js');
 
 const sampleInput = `
 1000

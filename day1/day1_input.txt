@@ -1,4 +1,3 @@
-const puzzleInput = `
 20576
 21113
 1865
@@ -2250,7 +2249,3 @@ const puzzleInput = `
 
 4894
 9624
-`
-
-module.exports = { puzzleInput };
-
